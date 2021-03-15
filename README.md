@@ -1,11 +1,9 @@
 # Ti-launch-pad-with-MSP430-MCU 
 
 Τα αρχεία μου σε γλώσσα προγραμματισμού για μικροεπεξεργαστή MSP430F5529!
-
-My archieve on the programming languahe for the microprocessor MSP430F5529!
-
 Ο κώδικας μπορεί να μεταγλωττιστεί στο πρόγραμμα energia.
 
+My archieve on the programming languahe for the microprocessor MSP430F5529!
 The code can be compiled on the Energia program
 
 
