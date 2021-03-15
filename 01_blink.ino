@@ -8,7 +8,7 @@ void setup() {
   pinMode(LED, OUTPUT);     
 }
 
-// the loop routine runs over and over again forever:
+// the loop routine runs over and over again forever - ατέρμων βρόγχος :
 void loop() {
   digitalWrite(LED, HIGH);   // turn the LED on (HIGH is the voltage level) - άνοιγμα led (χρόνος προσπέλασης για να ανάψει το led)
   delay(1000);               // wait for a second - αναμονή ενός δευτερολέπτων.
