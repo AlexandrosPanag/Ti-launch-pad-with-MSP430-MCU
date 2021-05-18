@@ -49,6 +49,19 @@ GR: Πρόγραμμα όπου υπο κανονική λειτουργία τ�
 led μας θα σβήνει.
 
 
-
-
 EN: A program that makes the right button usable. The program under normal condition works with making the light blink however, when we press the right button the led must turn off. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MSP430 - 06_Recognise numbers and blink accordingly.ino
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GR: Πρόγραμμα όπου έχει τη δυνατότητα να διαβάζει 4 input απο τον χρήστη και εκτελεί μια απο τις ακόλουθες 4 διαδικασίες
+1- Το ΚΟΚΚΙΝΟ led θα ανάβει
+2- Το ΚΟΚΚΙΝΟ led θα σβήνει
+3- Το ΠΡΑΣΙΝΟ led θα ανάβει
+4- το ΠΡΑΣΙΝΟ led θα σβήνει
+
+EN: A program that gives the abillity for our msp board to recognise four inputs and give one of the four values accordingly:
+1- the RED led will light
+2- the RED led will turn off
+3- the Green light will light
+4- the green light will turn off
