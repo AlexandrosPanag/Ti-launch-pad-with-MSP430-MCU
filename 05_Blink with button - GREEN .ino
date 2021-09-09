@@ -1,4 +1,3 @@
-int buttonstate=0; //Declaring a button state
 int onoff=0;  //Declaring a check variable on whether or not we pressed the button or we didn't
 
 void setup(){  //Set-up point
