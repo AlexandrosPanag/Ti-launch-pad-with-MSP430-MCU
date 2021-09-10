@@ -69,3 +69,11 @@ EN: A program that gives the abillity for our msp board to recognise four inputs
 2- the RED led will turn off
 3- the Green light will light
 4- the green light will turn off
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MSP430 - 07_Time_Counter.ino
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GR: Πρόγραμμα όπου έχει τη δυνατότητα να μετράει τον πραγματικό χρόνο σε second ξεκινώντας απο το 1 σαν χρονόμετρο
+
+EN: A program that has the abillity to count each passing second like a time counter
